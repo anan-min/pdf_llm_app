@@ -1,0 +1,25 @@
+1. Project Title: Smart Agriculture System for Sustainable Farming in Thailand
+2. Description: This project aims to develop a smart agriculture system that utilizes IoT, AI, and data analytics to monitor and optimize farming conditions for sustainable farming practices in Thailand. The system will help farmers to make informed decisions about crop selection, planting, irrigation, and pest management, leading to increased productivity and reduced environmental impact.
+3. Duration: 270 days from the date of signing the contract.
+4. Budget: ฯลํ,ฬฺคฺ๓,ฮฺ๕๐๐ Baht (95,500,000 Baht in total)
+5. Location: Department of Agriculture and Department of Information and Communication Technology, Ministry of Digital Economy and Society, Thailand, Phahonyothin Road, Lad Yao Sub-district, Chatuchak District, Bangkok, Thailand
+6. Project Manager: The project will be managed by the Department of Agriculture and Department of Information and Communication Technology, Ministry of Digital Economy and Society, Thailand.
+7. Scope of Work:
+   - Design and development of smart agriculture system using IoT, AI, and data analytics.
+   - Integration with existing farming infrastructure and devices.
+   - Testing and validation of the system in a pilot farm.
+   - Training and support for farmers to use the system effectively.
+8. Deliverables:
+   - A functional smart agriculture system that can be scaled up for wider adoption.
+   - Documentation and user manual for the system.
+   - Reports on the performance of the system in the pilot farm.
+9. Confidentiality: All project-related information, including intellectual property, must be kept confidential and not disclosed to any third party without prior written consent from the project managers. Any breach of confidentiality may result in legal action against the responsible party.
+10. Termination Clause: In case the contractor fails to fulfill their obligations as per the contract or withdraws from the project before its completion, they will be liable for damages and may be required to pay a termination fee equivalent to 10% of the total contract amount.
+11. Warranty and Support: The contractor will provide warranty and support for the system for a period of one year from the date of delivery. Any defects or issues that arise during this period will be rectified by the contractor at no additional cost to the client.
+12. Non-Disclosure Agreement: All parties involved in the project must sign a non-disclosure agreement (NDA) to protect any confidential information related to the project.
+13. Payment Terms: The contractor will receive 50% of the total contract amount upon signing the contract, and the remaining 50% upon completion of the project and delivery of the system.
+14. Intellectual Property Rights: All intellectual property rights for the smart agriculture system will belong to the Department of Agriculture and Department of Information and Communication Technology, Ministry of Digital Economy and Society, Thailand. The contractor will retain the rights to any technology or methodology developed during the project that is not directly related to the smart agriculture system.
+15. Dispute Resolution: Any disputes arising from this contract shall be resolved through negotiation between the parties involved. If a resolution cannot be reached, the dispute will be submitted to arbitration in Bangkok, Thailand, in accordance with the rules of the Thai Arbitration Institute.
+16. Force Majeure: In case of any unforeseen events or circumstances beyond the control of either party (e.g., natural disasters, political instability), the project may be suspended or terminated without liability to either party.
+17. Governing Law: This contract shall be governed by and construed in accordance with Thai law. Any disputes arising from this contract shall be resolved in accordance with Thai law.
+18. Miscellaneous: The parties agree that any modifications or amendments to this contract must be in writing and signed by both parties. This contract constitutes the entire agreement between the parties regarding the subject matter herein, and supersedes any prior agreements or understandings between the parties.

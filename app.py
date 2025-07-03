@@ -78,10 +78,11 @@ with col2:
         model_choice = st.selectbox(
             "Select LLM Model",
             ["llama3.2",
-             "qwen2.5:latest",
-             "scb10x/typhoon2.1-gemma3-12b:latest",
+             "qwen2.5vl:latest",
              "scb10x/llama3.1-typhoon2-8b-instruct:latest",
-             "mistral:7b"],
+             "mistral:7b",
+             "gemma3:27b",
+             "qwen2.5vl:32b"],
             help="Choose which LLM to use for processing"
         )
 
@@ -103,7 +104,7 @@ with col2:
 
         prompt_prefix = st.text_area(
             "Prompt Prefix",
-            value="Extract and analyze key information from this document:",
+            value="Extract Test case from this document:",
             height=80,
             help="Please extract the test cases from the following document"
         )
@@ -156,4 +157,3 @@ if hasattr(st.session_state, 'extracted_text') and st.session_state.llm_output:
     with col_info3:
         char_count = len(st.session_state.extracted_text)
         st.metric("Character Count", f"{char_count:,}")
-
